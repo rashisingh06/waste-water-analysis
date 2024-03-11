@@ -23,7 +23,8 @@ The analysis focuses on the Wastewater Treatment indicator from the 2014 Environ
 
 The dataset was extracted from the 2014 EPI time series indicator data.
 An initial exploration was conducted to understand the structure and contents of the data.
-Country-Region Mapping:
+
+**Country-Region Mapping:**
 
 A mapping of countries to their respective regions was performed to enhance the geographical context of the analysis.
 
